@@ -106,7 +106,7 @@ body {
     border-radius: 150px 150px 150px 150px;
     background-color: #60afa2;
     position: absolute;
-    top: 50vh;
+    top: 55vh;
     left: 5vh;
     padding: 0 10px;
 }
@@ -125,7 +125,7 @@ body {
     margin: 2vw 5vw;
 }
 .Specialist div h1{
-    font-size: 50px;
+    font-size: 40px;
     margin: 0px;
 }
 .Specialist div h3{
@@ -134,10 +134,11 @@ body {
     margin: 0px;
 }
 .Specialist button{
-    font-size: 30px;
+    font-size: 25px;
+    font-weight: 600;
     border: none;
     border-radius: 10px;
-    /* height: 60px; */
+    padding: 0px 10px;
 }
 .Offer{
     display: flex;
@@ -148,10 +149,11 @@ body {
     /* background-color: #499185; */
 }
 .SubO{
+    width: 37%;
     justify-content: left;
-    padding: 20px 90px;
+    padding: 20px 40px;
     /* background-color: #f86484; */
-    font-size: 30px;
+    font-size: 25px;
 
     text-decoration: none;
     color: #000;
@@ -184,7 +186,7 @@ body {
     /* background-color: white; */
 }
 #feature .fe-box{
-    width: 220px;
+    width: 200px;
     text-align: center;
     padding: 25px 15px;
     /* box-shadow: 20px 20px 34px rgba(0,0,0,0.03); */
@@ -198,7 +200,7 @@ body {
 #feature .fe-box img{
     border-radius: 100px 10px 100px 10px;
     background-color: white;
-    width: 100%;
+    width: 80%;
     margin-bottom: 10px;
 }
 #feature .fe-box h6{
@@ -208,7 +210,7 @@ body {
     border-radius: 4px;
     color: black;
     background-color:  #f86484;
-    font-size: 25px;
+    font-size: 18px;
     margin: 20px 0px;
 }
 
