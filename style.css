@@ -331,7 +331,7 @@ body {
 }
 .footer img{
     /* text-align: center; */
-    height: 100px;
+    height: 80px;
     position:absolute;
     left: 50%;
     transform: translate(-50%, -50%);
